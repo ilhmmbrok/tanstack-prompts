@@ -99,7 +99,7 @@ tanstack-start/
 
    ```bash
    git clone <repository-url>
-   cd tanstack-start
+   cd tanstack-prompts
    ```
 
 2. **Install dependencies**
