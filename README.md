@@ -98,7 +98,7 @@ tanstack-start/
 1. **Clone repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ilhmmbrok/tanstack-prompts.git
    cd tanstack-prompts
    ```
 
